@@ -1,0 +1,30 @@
+body{
+    background-color: #f3c667;
+}
+.table{
+    width: 100%;
+}
+p{
+    font-size: 20px;
+}
+.containerOne{
+   background-color: #f3b389;
+   padding: 40px;
+   height: 620px;
+}
+.img-fluid{
+    padding: 40px;
+    height: 500px;
+}
+#skills{
+    height: 400px;
+}
+#form{
+    background-color: #ebaf87;
+}
+.button{
+    background-color: rgb(184, 166, 166);
+}
+#video{
+    background-color: #e5dba0;
+}
